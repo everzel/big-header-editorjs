@@ -1,0 +1,18 @@
+.big-header {
+    width: 100%;
+    height: 50px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.cdx-input {
+    border: 1px solid rgba(201,201,204,.48);
+    -webkit-box-shadow: inset 0 1px 2px 0 rgb(35 44 72 / 6%);
+    box-shadow: inset 0 1px 2px 0 rgb(35 44 72 / 6%);
+    border-radius: 3px;
+    padding: 10px 12px;
+    outline: none;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
