@@ -1,4 +1,5 @@
 import Icon from './svg/toolbox.svg';
+import './index.css';
 
 /**
  * Big header tool
