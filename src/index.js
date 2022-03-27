@@ -48,7 +48,7 @@ export default class BigHead {
    * @returns {{text}}
    */
   save(toolsContent) {
-    this.data.text = toolsContent.textContent;
+    this.data.text = toolsContent.innerHTML;
 
     return this.data;
   }
