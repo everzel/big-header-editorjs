@@ -64,7 +64,7 @@ export default class BigHead {
     });
 
     if (text) {
-      this.nodes.text.textContent = text;
+      this.nodes.text.innerHTML = text;
     }
 
     /*
